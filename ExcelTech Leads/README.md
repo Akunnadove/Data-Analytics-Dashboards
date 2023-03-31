@@ -1,8 +1,8 @@
 # Leads Dashboard Report - ExcelTech
 Data Studio Dashboard development project for Leads data
 ## Objective
-Dispaly the generated leads for the company through the sales unit.
-* Clean collected data on googlesheets 
+Display the generated leads for the company through the sales unit.
+* Clean collected data on google sheets 
 * Create a well detailed and structured dashboard report using looker studio
 * Present to client
 ## Dataset feautures

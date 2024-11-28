@@ -25,5 +25,5 @@ A retail company wants to understand its sales performance across different citi
 To create visually engaging and interactive dashboards that provide actionable insights into sales performance, customer behavior, and product trends, empowering the retail company to make data-driven decisions.
 
 # Tools
-* Data Cleaning and Preprocessing: Python (using libraries like Pandas, NumPy, and Matplotlib for preliminary checks).
+* Data Cleaning and Preprocessing: R programming
 * Dashboard Creation: Tableau (for interactive visualizations).

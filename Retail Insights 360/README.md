@@ -31,7 +31,8 @@ To create visually engaging and interactive dashboards that provide actionable i
 # Dashboards
 
 ## Sales and Regional Insights
-![Insight 360 Sales 1](https://github.com/user-attachments/assets/07408a3c-4d34-4cdb-920b-7988dd7d9917)
+![Dashboard 1 (2)](https://github.com/user-attachments/assets/e1e8fd1a-c199-412a-981a-2a236bcde88b)
 
 ## Customer Behavior and Product Analysis
-![Insight 360 Sales 2](https://github.com/user-attachments/assets/fc9e5282-227a-47ba-abd2-a7d3dfadc07f) 
+![Dashboard 2 (1)](https://github.com/user-attachments/assets/ecf9c05d-f03b-41bc-919e-1567c2cf852f)
+
